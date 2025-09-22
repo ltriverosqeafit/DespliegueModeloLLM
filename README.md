@@ -1,0 +1,1 @@
+El objetivo es desplegar un modelo LLM en una aplicación tipo chat, de manera que el usuario pueda interactuar haciendo preguntas y recibiendo respuestas en tiempo real. Para ello se utilizará la plataforma Lightning, ya que ofrece soporte para trabajar con GPU y facilita la creación de URLs públicas, lo que permite acceder al aplicativo de forma sencilla desde cualquier lugar.
